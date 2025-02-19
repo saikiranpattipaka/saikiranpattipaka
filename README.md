@@ -5,11 +5,11 @@
 
  <img align="right" height="160" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" />
 
- - 🖥️ **Technologies I’m learning**: Ansible, Terraform, Docker, Jenkins, Kubernetes, AWS.
- - 🌱 **Currently exploring**: Automation, CI/CD workflows, Monitoring, and Cloud Infrastructure.
- - ⚙️ **What excites me**: Building scalable, efficient, and secure infrastructure that can support seamless software delivery.
- - 🔧 **Tools I use**: Git, Docker, Kubernetes, Terraform, AWS, Bash, Jenkins.
- - 🧑‍💻 **Fun fact**: I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
+ - 🖥️ **Technologies I’m learning:** Ansible, Terraform, Docker, Jenkins, Kubernetes, AWS.
+ - 🌱 **Currently exploring:** Automation, CI/CD workflows, Monitoring, and Cloud Infrastructure.
+ - ⚙️ **What excites me:** Building scalable, efficient, and secure infrastructure that can support seamless software delivery.
+ - 🔧 **Tools I use:** Git, Docker, Kubernetes, Terraform, AWS, Bash, Jenkins.
+ - 🧑‍💻 **Fun fact:** I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
 
  <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
@@ -48,18 +48,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
-
-<!--
-**saikiranpattipaka/saikiranpattipaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
