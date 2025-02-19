@@ -14,10 +14,8 @@ I’m an aspiring DevOps Engineer with a passion for automating processes and op
 
 I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
 
-###
-<img align="right" height="180" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif"  />
 
-###
+<img align="right" height="180" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif"  />
 
 
 <div align="center">
