@@ -8,8 +8,7 @@ I’m an aspiring DevOps Engineer with a passion for automating processes and op
 ###
 
 <img align="right" height="160" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" />
-###
-###
+
 
 ###
 - 🖥️ **Technologies I’m learning**: Docker, Kubernetes, Jenkins, Terraform, AWS, Linux.
