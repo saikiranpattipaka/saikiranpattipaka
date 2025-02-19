@@ -17,6 +17,8 @@ I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and col
 ###
 <img align="right" height="180" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif"  />
 
+###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
