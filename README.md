@@ -6,7 +6,7 @@
 
 ### <img align="right" height="160" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" />
 
- - 🖥️ **Technologies I’m learning**: Docker, Kubernetes, Jenkins, Terraform, AWS, Linux.
+ - 🖥️ **Technologies I’m learning**: Ansible, Terraform, Docker, Jenkins, Kubernetes, AWS.
  - 🌱 **Currently exploring**: Automation, CI/CD workflows, Monitoring, and Cloud Infrastructure.
  - ⚙️ **What excites me**: Building scalable, efficient, and secure infrastructure that can support seamless software delivery.
  - 🔧 **Tools I use**: Git, Docker, Kubernetes, Terraform, AWS, Bash, Jenkins.
