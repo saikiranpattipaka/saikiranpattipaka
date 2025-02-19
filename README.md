@@ -11,7 +11,7 @@ I’m an aspiring DevOps Engineer with a passion for automating processes and op
 - 🔧 Tools I use: Git, Docker, Kubernetes, Terraform, AWS, Bash, Jenkins
 - 🧑‍💻 Fun fact: I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
 
-
+I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
 
 
 <div align="center">
@@ -39,11 +39,6 @@ I’m an aspiring DevOps Engineer with a passion for automating processes and op
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
-
-
-
-
-I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
 
 <!--
 **saikiranpattipaka/saikiranpattipaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
