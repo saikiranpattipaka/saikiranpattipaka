@@ -13,6 +13,7 @@ I’m an aspiring DevOps Engineer with a passion for automating processes and op
 
 I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
 
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
@@ -40,13 +41,13 @@ I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and col
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
+###
 
 <p align="left">Connect with me</p>
 
 ###
-###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
