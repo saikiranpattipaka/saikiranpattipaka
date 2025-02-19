@@ -1,11 +1,14 @@
 ## Hi there 👋
 ## I'm saikiran pattipaka!
 
-
 ###
 I’m an aspiring DevOps Engineer with a passion for automating processes and optimizing system performance. I’m diving into the world of DevOps and looking to expand my skills in cloud computing, CI/CD pipelines, infrastructure as code, and containerization.
+###
 
-<img align="right" height="160" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif"  />
+###
+<img align="right" height="140" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif"  />
+
+###
 
 ###
 - 🖥️ **Technologies I’m learning**: Docker, Kubernetes, Jenkins, Terraform, AWS, Linux
@@ -13,10 +16,9 @@ I’m an aspiring DevOps Engineer with a passion for automating processes and op
 - ⚙️ **What excites me**: Building scalable, efficient, and secure infrastructure that can support seamless software delivery
 - 🔧 **Tools I use**: Git, Docker, Kubernetes, Terraform, AWS, Bash, Jenkins
 - 🧑‍💻 **Fun fact**: I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
+###
 
-I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
-
-
+###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
@@ -45,8 +47,9 @@ I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and col
 
 ###
 
-**Let's get in touch** 🤝
+I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
 
+**Let's get in touch** 🤝
 ###
 
 <div align="center">
