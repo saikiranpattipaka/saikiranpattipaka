@@ -41,8 +41,9 @@ I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and col
 </div>
 
 
-<h2 align="left">Connect with me</h2>
+<p align="left">Connect with me</p>
 
+###
 ###
 
 <div align="left">
