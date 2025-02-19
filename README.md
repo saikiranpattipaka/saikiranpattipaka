@@ -5,8 +5,6 @@
 ###
 I’m an aspiring DevOps Engineer with a passion for automating processes and optimizing system performance. I’m diving into the world of DevOps and looking to expand my skills in cloud computing, CI/CD pipelines, infrastructure as code, and containerization.
 
-<img align="right" height="180" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif"  />
-
 
 - 🖥️ **Technologies I’m learning**: Docker, Kubernetes, Jenkins, Terraform, AWS, Linux
 - 🌱 **Currently exploring**: Automation, CI/CD workflows, Monitoring, and Cloud Infrastructure
@@ -17,6 +15,8 @@ I’m an aspiring DevOps Engineer with a passion for automating processes and op
 I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
 
 ###
+<img align="right" height="180" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif"  />
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
