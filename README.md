@@ -12,7 +12,7 @@
 - 🧑‍💻 Fun fact: I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
 
   
-## I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
+I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
 
 <!--
 **saikiranpattipaka/saikiranpattipaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
