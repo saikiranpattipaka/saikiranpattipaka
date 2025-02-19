@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm saikiran pattipaka!
 
-<img align="left" height="" src="https://appinventiv.com/wp-content/uploads/2022/10/cloud-vs-devops-in-2023.gif"  />
+<img align="left" height="160" src="https://appinventiv.com/wp-content/uploads/2022/10/cloud-vs-devops-in-2023.gif"  />
 
 ###
 I’m an aspiring DevOps Engineer with a passion for automating processes and optimizing system performance. I’m diving into the world of DevOps and looking to expand my skills in cloud computing, CI/CD pipelines, infrastructure as code, and containerization.
