@@ -14,8 +14,8 @@
 ### - 🧑‍💻 **Fun fact**: I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
 
 
-###
-<div align="center">
+
+### <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
