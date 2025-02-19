@@ -7,8 +7,7 @@ I’m an aspiring DevOps Engineer with a passion for automating processes and op
 
 ###
 
-<img align="right" height="140" src="https://cdn.dribbble.com/userupload/21935249/file/original-12de12bcc267ca41e9a89a51d1c7138a.gif"  />
-
+<img align="right" height="160" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" />
 ###
 ###
 
