@@ -43,7 +43,7 @@ I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and col
 
 ###
 
-<p align="left">Connect with me</p>
+<p align="left">Let's get in touch</p>
 
 ###
 
