@@ -7,11 +7,11 @@
 ### <img align="right" height="160" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" />
 
 
-### - 🖥️ **Technologies I’m learning**: Docker, Kubernetes, Jenkins, Terraform, AWS, Linux.
-### - 🌱 **Currently exploring**: Automation, CI/CD workflows, Monitoring, and Cloud Infrastructure.
-### - ⚙️ **What excites me**: Building scalable, efficient, and secure infrastructure that can support seamless software delivery.
-### - 🔧 **Tools I use**: Git, Docker, Kubernetes, Terraform, AWS, Bash, Jenkins.
-### - 🧑‍💻 **Fun fact**: I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
+ - 🖥️ **Technologies I’m learning**: Docker, Kubernetes, Jenkins, Terraform, AWS, Linux.
+ - 🌱 **Currently exploring**: Automation, CI/CD workflows, Monitoring, and Cloud Infrastructure.
+ - ⚙️ **What excites me**: Building scalable, efficient, and secure infrastructure that can support seamless software delivery.
+ - 🔧 **Tools I use**: Git, Docker, Kubernetes, Terraform, AWS, Bash, Jenkins.
+ - 🧑‍💻 **Fun fact**: I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
 
 
 
@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-### I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
+I'm open to connecting with other DevOps enthusiasts, sharing knowledge, and collaborating on projects. Let’s learn and grow together!
 
 ### Let's get in touch 🤝
 
