@@ -41,17 +41,17 @@
 
 <style>
   div {
-    font-size: 0; /* Removes gaps between inline elements */
+    font-size: 0;
     text-align: center;
   }
   img {
     display: inline-block;
     margin: 0;
     padding: 0;
-    vertical-align: middle; /* Align icons properly */
+    vertical-align: middle; 
   }
   a {
-    text-decoration: none; /* Optional: removes underline from links */
+    text-decoration: none;
   }
 </style>
 
