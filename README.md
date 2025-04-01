@@ -44,7 +44,7 @@
   <a href="http://linkedin.com/in/saikiranpattipaka" target="_blank"> 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank"> 
+  <a href="mailto:saikiranpathipaka87@gmail.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank"> 
@@ -59,7 +59,7 @@
   <a href="https://t.me/saikiranpattipaka" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
-  <a href="https://www.instagram.com/yourhandle" target="_blank">
+  <a href="https://www.instagram.com/saikiranpattipaka" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
