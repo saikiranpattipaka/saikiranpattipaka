@@ -55,8 +55,8 @@
    <a href="https://t.me/saikiranpattipaka" target="_blank">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
    </a>
+  <a href="https://www.instagram.com/saikiranpattipaka" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
    </a>
 </div>
-![image](https://github.com/user-attachments/assets/37f82a85-a88f-48b3-b0fc-24068b582a48)
 
