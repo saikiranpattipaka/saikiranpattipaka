@@ -39,22 +39,8 @@
 
 ### Let's get in touch 🤝
 
-<style>
-  div {
-    font-size: 0;
-    text-align: center;
-  }
-  img {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    vertical-align: middle; 
-  }
-  a {
-    text-decoration: none;
-  }
-</style>
 
+<div align="center">
 <div>
   <a href="http://linkedin.com/in/saikiranpattipaka" target="_blank"> 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
