@@ -1,28 +1,30 @@
-<h1 align="center">Hi there 👋, I'm Sai Kiran Pattipaka</h1>
+<h1 align="center">Hey there, I'm **Sai Kiran Pattipaka** 👋</h1>
 
 <p align="center">
-💻 DevOps Engineer @ Amazon | ☁️ AWS Certified Solutions Architect – Associate | 🔧 Automating Cloud Infrastructure with 3+ Years of Experience
+  <b>DevOps Engineer @ Amazon</b>  
+  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Associate-orange?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect – Associate"/>
+  <br/>
+  3+ Years Experience • Cloud Infrastructure • CI/CD • Containers • IaC
 </p>
 
-<img align="right" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" height="160" alt="DevOps GIF"/>
+<p align="right">
+  <img src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" alt="DevOps Cycle" width="180"/>
+</p>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-I’m a **DevOps Engineer with 3+ years of hands-on experience** in building, automating, and scaling cloud infrastructure at Amazon.  
-My focus is on delivering **reliable, secure, and scalable systems** using cutting-edge DevOps practices and cloud-native tools.
+I’m a **DevOps Engineer** at Amazon with **3+ years** designing and automating scalable, secure, and cost-effective cloud infrastructure. Skilled in AWS, CI/CD, and container orchestration, I’m passionate about bridging the gap between development and operations.
 
-I'm an **AWS Certified Solutions Architect – Associate**, passionate about:
-- 🧠 Automating infrastructure using Terraform, Ansible & AWS CloudFormation  
-- 🚀 Creating CI/CD pipelines using Jenkins, GitHub Actions & CodePipeline  
-- 🐳 Orchestrating containers with Docker & Kubernetes (EKS)  
-- 📈 Monitoring systems with Prometheus, Grafana & CloudWatch  
-- 🛡️ Ensuring infrastructure security, efficiency, and resilience
+**Core Competencies:**
+| Automation & IaC | CI/CD & Pipelines | Containers & Orchestration | Monitoring & Security |
+|------------------|--------------------|------------------------------|------------------------|
+| Terraform • Ansible • CloudFormation | Jenkins • GitHub Actions • CodePipeline | Docker • Kubernetes (EKS) | Prometheus • Grafana • CloudWatch • IAM |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,jenkins,ansible,terraform,docker,kubernetes,aws,py" />
@@ -30,52 +32,51 @@ I'm an **AWS Certified Solutions Architect – Associate**, passionate about:
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
-- Advanced Terraform modules and reusable IaC patterns  
-- GitOps using ArgoCD and Helm  
-- AWS Well-Architected Framework  
-- Monitoring + Alerting best practices  
-
----
-
-### ⚡ Fun Fact
-
-I'm endlessly curious about **how systems work under the hood**, and I love tinkering with new tools, automating boring tasks, and improving developer workflows.
+- Writing reusable Terraform modules and GitOps workflows with ArgoCD  
+- Helm templating and advanced AWS Well-Architected patterns  
+- Observability enhancements and proactive alerting strategies
 
 ---
 
-### 📫 Let's Connect!
+###  Certifications
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saikiranpattipaka/saikiranpattipaka/main/aws_saa_static.png" width="120" alt="AWS Certified Solutions Architect – Associate (SAA‑C03)"/>
+</p>
+
+- **AWS Certified Solutions Architect – Associate (SAA‑C03)**  
+  Issued by Amazon Web Services  
+  [Verify on Credly](https://www.credly.com/)
+
+---
+
+###  Fun Fact
+
+I’m endlessly curious about system internals and enjoy creating scripts and automation workflows just for the satisfaction of razor-sharp efficiency.
+
+---
+
+###  Let’s Connect!
 
 <div align="center">
   <a href="https://linkedin.com/in/saikiranpattipaka" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" alt="LinkedIn" />
+    <img src="https://simpleicons.org/icons/linkedin.svg" width="30" alt="LinkedIn"/>
   </a>
   <a href="mailto:saikiranpattipaka@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" alt="Email" />
+    <img src="https://simpleicons.org/icons/gmail.svg" width="30" alt="Email"/>
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" alt="Twitter" />
+    <img src="https://simpleicons.org/icons/twitter.svg" width="30" alt="Twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" alt="YouTube" />
-  </a>
-  <a href="https://wa.me/919618661434" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/saikiranpattipaka" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/saikiranpattipaka" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" alt="Instagram" />
+    <img src="https://simpleicons.org/icons/youtube.svg" width="30" alt="YouTube"/>
   </a>
 </div>
 
 ---
 
-<!-- Badges (Optional) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification Badge"/>
   <img src="https://komarev.com/ghpvc/?username=saikiranpattipaka&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
-
