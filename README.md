@@ -1,65 +1,81 @@
-# Hi there 👋
-# I'm saikiran pattipaka!
+<h1 align="center">Hi there 👋, I'm Sai Kiran Pattipaka</h1>
 
-#### I’m an aspiring DevOps Engineer with a passion for automating processes and optimizing system performance. I’m diving into the world of DevOps and looking to expand my skills in cloud computing, CI/CD pipelines, infrastructure as code, and containerization.
+<p align="center">
+💻 DevOps Engineer @ Amazon | ☁️ AWS Certified Solutions Architect – Associate | 🔧 Automating Cloud Infrastructure with 3+ Years of Experience
+</p>
 
- <img align="right" height="160" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" />
+<img align="right" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" height="160" alt="DevOps GIF"/>
 
- - 🖥️ **Technologies I’m learning:** Ansible, Terraform, Docker, Jenkins, Kubernetes, AWS.
- - 🌱 **Currently exploring:** Automation, CI/CD workflows, Monitoring, and Cloud Infrastructure.
- - ⚙️ **What excites me:** Building scalable, efficient, and secure infrastructure that can support seamless software delivery.
- - 🔧 **Tools I use:** Git, Docker, Kubernetes, Terraform, AWS, Bash, Jenkins.
- - 🧑‍💻 **Fun fact:** I’m always curious about how things work under the hood and love experimenting with new tools and scripts.
+---
 
- <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
+### 🚀 About Me
 
-### Let's get in touch 🤝
+I’m a **DevOps Engineer with 3+ years of hands-on experience** in building, automating, and scaling cloud infrastructure at Amazon.  
+My focus is on delivering **reliable, secure, and scalable systems** using cutting-edge DevOps practices and cloud-native tools.
+
+I'm an **AWS Certified Solutions Architect – Associate**, passionate about:
+
+- 🧠 Automating infrastructure using Terraform, Ansible & AWS CloudFormation  
+- 🚀 Creating CI/CD pipelines using Jenkins, GitHub Actions & CodePipeline  
+- 🐳 Orchestrating containers with Docker & Kubernetes (EKS)  
+- 📈 Monitoring systems with Prometheus, Grafana & CloudWatch  
+- 🛡️ Ensuring infrastructure security, efficiency, and resilience
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-<div>
-  <a href="http://linkedin.com/in/saikiranpattipaka" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,jenkins,ansible,terraform,docker,kubernetes,aws,py" />
+</div>
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced Terraform modules and reusable IaC patterns  
+- GitOps using ArgoCD and Helm  
+- AWS Well-Architected Framework  
+- Monitoring + Alerting best practices  
+
+---
+
+### ⚡ Fun Fact
+
+I'm endlessly curious about **how systems work under the hood**, and I love tinkering with new tools, automating boring tasks, and improving developer workflows.
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/saikiranpattipaka" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" alt="LinkedIn" />
   </a>
-  <a href="mailto:saikiranpattipaka@outlook.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:saikiranpattipaka@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" alt="Email" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/channel/yourchannel" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+  <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" alt="YouTube" />
   </a>
-  <a href="https://wa.me/919618661434" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  <a href="https://wa.me/919618661434" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" alt="WhatsApp" />
   </a>
   <a href="https://t.me/saikiranpattipaka" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" alt="Telegram" />
   </a>
   <a href="https://www.instagram.com/saikiranpattipaka" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" alt="Instagram" />
   </a>
 </div>
+
+---
+
+<!-- Badges (Optional) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=saikiranpattipaka&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
