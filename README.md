@@ -79,4 +79,4 @@ I'm endlessly curious about **how systems work under the hood**, and I love tink
   <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification Badge"/>
   <img src="https://komarev.com/ghpvc/?username=saikiranpattipaka&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
-<img width="1292" height="3047" alt="image" src="https://github.com/user-attachments/assets/52ed06da-5461-4d96-b010-2b4f228cd7ee" />
+
