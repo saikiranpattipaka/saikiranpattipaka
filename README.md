@@ -80,5 +80,6 @@ I'm endlessly curious about **how systems work under the hood**, and I love tink
   <img src="https://komarev.com/ghpvc/?username=saikiranpattipaka&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saikiranpattipaka/aws-badge-assets/main/aws-certified-solutions-architect-associate.gif" width="160" alt="AWS Certification Badge"/>
+  <img src="https://raw.githubusercontent.com/saikiranpattipaka/aws-badge-assets/main/aws-certified-solutions-architect-associate.gif" width="180" alt="AWS Certified Solutions Architect – Associate Badge"/>
 </p>
+
