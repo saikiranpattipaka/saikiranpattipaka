@@ -9,6 +9,7 @@
 
 
 
+
 <img align="right" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" height="160" alt="DevOps GIF"/>
 
 ---
