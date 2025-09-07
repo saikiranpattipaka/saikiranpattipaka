@@ -15,7 +15,7 @@ My focus is on delivering **reliable, secure, and scalable systems** using cutti
 
 I'm an **AWS Certified Solutions Architect – Associate**, passionate about:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/saikiranpattipaka/saikiranpattipaka/main/aws_saa_spinning.gif" width="120" alt="AWS Certified Solutions Architect – Associate Badge" />
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.png" width="120" alt="AWS SAA Badge" />
 </p>
 
 - 🧠 Automating infrastructure using Terraform, Ansible & AWS CloudFormation  
