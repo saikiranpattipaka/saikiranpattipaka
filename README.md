@@ -4,8 +4,9 @@
 💻 DevOps Engineer @ Amazon | ☁️ AWS Certified Solutions Architect – Associate | 🔧 Automating Cloud Infrastructure with 3+ Years of Experience
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&color=FF5733&lines=DevOps+Engineer+%40+Amazon;AWS+Certified+Solutions+Architect;Infrastructure+Automation+%7C+CI%2FCD+%7C+Kubernetes;3%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&color=0000FF&lines=DevOps+Engineer+%40+Amazon;AWS+Certified+Solutions+Architect;Infrastructure+Automation+%7C+CI%2FCD+%7C+Kubernetes;3%2B+Years+Experience" alt="Typing SVG" />
 </p>
+
 
 
 
