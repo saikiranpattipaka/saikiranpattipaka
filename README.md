@@ -14,7 +14,9 @@ I’m a **DevOps Engineer with 3+ years of hands-on experience** in building, au
 My focus is on delivering **reliable, secure, and scalable systems** using cutting-edge DevOps practices and cloud-native tools.
 
 I'm an **AWS Certified Solutions Architect – Associate**, passionate about:
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/saikiranpattipaka/saikiranpattipaka/main/aws_saa_spinning.gif" width="120" alt="AWS Certified Solutions Architect – Associate Badge" />
+</p>
 - 🧠 Automating infrastructure using Terraform, Ansible & AWS CloudFormation  
 - 🚀 Creating CI/CD pipelines using Jenkins, GitHub Actions & CodePipeline  
 - 🐳 Orchestrating containers with Docker & Kubernetes (EKS)  
