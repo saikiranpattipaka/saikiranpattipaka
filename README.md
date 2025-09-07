@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sai Kiran Pattipaka</h1>
 
-<p align="center">
-💻 DevOps Engineer @ Amazon | ☁️ AWS Certified Solutions Architect – Associate | 🔧 Automating Cloud Infrastructure with 3+ Years of Experience
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&lines=DevOps+Engineer+@+Amazon;AWS+Certified+Solutions+Architect;Infrastructure+Automation+|+CI/CD+|+Kubernetes;3+Years+Experience" alt="Typing SVG" />
