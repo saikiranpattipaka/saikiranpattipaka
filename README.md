@@ -7,7 +7,7 @@
 <img align="right" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" height="160" alt="DevOps Infinity Loop GIF"/>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/AWS_SAA_C02_Badge.png" width="110" alt="AWS Certified Solutions Architect - Associate" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect - Associate" width="150" />
 </p>
 
 ---
