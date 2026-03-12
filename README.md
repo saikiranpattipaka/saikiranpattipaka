@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&lines=DevOps+Engineer+@+Amazon;AWS+Certified+Solutions+Architect;Infrastructure+Automation+|+CI/CD+|+Kubernetes;3++Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&lines=DevOps+Engineer+@+Amazon;AWS+Certified+Solutions+Architect;Infrastructure+Automation+|+CI/CD+|+Kubernetes;3%2B+Years+Experience" alt="Typing SVG" />
 </p>
 
 <img align="right" src="https://www.zartis.com/wp-content/uploads/2024/02/continuous-devops-cycle.gif" height="160" alt="DevOps Continuous Cycle GIF" />
